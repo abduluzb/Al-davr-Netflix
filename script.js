@@ -122,4 +122,4 @@
     
         // Initial load
         fetchMovies();
-     
+      
